@@ -1,5 +1,5 @@
 # pracrice_1_23-04-2023
 
 demo
-live demo : https://github.com/Hani-Shaif/pracrice_1_23-04-2023/blob/main/screenshot.png.png
-
+Visit demo : https://github.com/Hani-Shaif/pracrice_1_23-04-2023/blob/main/screenshot.png.png
+()[https://hani-shaif.github.io/pracrice_1_23-04-2023/]
